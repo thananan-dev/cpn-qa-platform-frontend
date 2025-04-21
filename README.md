@@ -1,4 +1,4 @@
-# cpn-qa-platform-backend
+# cpn-qa-platform-frontend
 
 # 📌 Features
 
