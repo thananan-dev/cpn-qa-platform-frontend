@@ -18,17 +18,25 @@ Accounts for login testing
 | adminDev@mail.com | 1234 |
 | adminTester@mail.com | 1234 |
 
+![image](https://github.com/user-attachments/assets/c44ba43a-d261-4fd5-8e48-fe3c13eb7be2)
+
 - **`SIGN UP`** `/sign-up` – Register a new user account
 - **`ROUTE PROTECTION`** – Protect route
 
 ## 📝 Dashboard
 
 - **`FETCH ALL POST`**  – Retrieve all posts
+
+![image](https://github.com/user-attachments/assets/95ee53c6-2805-4acf-97a2-f36c6a7de7d0)
+
 - **`ADD A POST`**  – Create a new post
 
 ## 💬 POST
 
 - **`GET POST`**  – Retrieve a specific post by ID
+- 
+![image](https://github.com/user-attachments/assets/829efe52-6621-4808-8f60-6a39fd797412)
+
 
 ## 💬 Comments
 
