@@ -34,7 +34,7 @@ Accounts for login testing
 ## 💬 POST
 
 - **`GET POST`**  – Retrieve a specific post by ID
-- 
+  
 ![image](https://github.com/user-attachments/assets/829efe52-6621-4808-8f60-6a39fd797412)
 
 
